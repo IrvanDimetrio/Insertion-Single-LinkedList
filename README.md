@@ -1,4 +1,4 @@
-# Insertion-Single-LInkedList
+# Insertion-Single-LinkedList
 
 Program sederhana Insertion Single Linked list menggunakan bahasa Java
 
